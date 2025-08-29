@@ -38,6 +38,55 @@ Additionally, we also provide the [[**Hugging Face**]](https://huggingface.co/da
 ACM MM 2025 did not have the provision of incorporating supplementary material. Hence, we provide it [[**here**]](https://github.com/hate-alert/ToxicityBegetsToxicity-Audio/blob/main/Appendix.pdf).
 
 ------------------------------------------
+## Snippets from paper
+
+#### Schema of conversation chain
+
+<div align="center">
+  <img src="podcast.jpg" width="50%">
+</div>
+
+**Top:** Computation of segments from chunks and their contents. **Bottom**: Schema for toxic conversation chains. 
+The segment marked in red color represents the anchored segment with toxicity above a threshold of 0.7.
+
+------------------------------------------
+#### Examples of chains
+
+<div align="center">
+  <img src="conversation_1.jpg" width="95%">
+  <img src="conversation_4.jpg" width="95%">
+</div>
+  
+Since it is not feasible to illustrate all segments, one among the previous and next segments is shown 
+along with the anchor segment from the toxic conversation chain. Toxic texts in the anchor segment are marked in red 
+color. **Note:** start and end times are in seconds.
+
+------------------------------------------
+
+#### Toxicity begets toxicity
+
+<div align="center">
+  <img src="cpd_606.jpg" width="45%">
+  <img src="cpd_952.jpg" width="45%">
+</div>
+  
+Using conversational chains to identify and predict the toxicity trends using change point detection algorithms. 
+**Plots** representing two samples comparing human annotation with **GPT-4o-Audio** zero-shot setup's detected change points. Correctly predicted points are marked with a **red hexagon** and incorrect predictions are marked with **red cross.**
+
+------------------------------------------
+
+#### Podcast Statistics
+
+<div align="center">
+  <img src="toxic_episodes.jpg" width="46.5%">
+  <img src="toxic_chains.jpg" width="44%">
+</div>
+
+**Left:** Top 10 podcast shows with most amount of toxic content for each leaning, i.e. right and left. The bars 
+show the percentage of episodes containing at least one toxic conversation. **Right:** Distribution of toxic 
+conversation chains across the podcast channels for each leaning, i.e. right and left. Percentage contribution for Top 10 podcast channels are shown.
+
+------------------------------------------
 ## Please cite our paper
 
 ~~~bibtex

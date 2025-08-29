@@ -35,7 +35,7 @@ We also provide the [[**Hugging Face**]](https://huggingface.co/datasets/nrizwan
 ------------------------------------------
 ## Appendix
 
-ACM MM 2025 did not have the provision of incorporating supplementary material. Hence, we provide it [[**here**]](https://github.com/hate-alert/ToxicityBegetsToxicity-Audio/blob/main/Supplementary_Appendix.pdf).
+ACM MM 2025 did not have the provision of incorporating supplementary material. Hence, we provide it [[**here**]](https://github.com/hate-alert/ToxicityBegetsToxicity-Audio/blob/main/Supple_Appendix.pdf).
 
 ------------------------------------------
 ## Contact

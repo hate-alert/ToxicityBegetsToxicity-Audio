@@ -87,6 +87,14 @@ show the percentage of episodes containing at least one toxic conversation. **Ri
 conversation chains across the podcast channels for each leaning, i.e. right and left. Percentage contribution for Top 10 podcast channels are shown.
 
 ------------------------------------------
+
+#### Quantitative results
+
+<div align="center">
+  <img src="_cpdresults.png" width="90%">
+</div>
+
+------------------------------------------
 ## Please cite our paper
 
 ~~~bibtex

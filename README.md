@@ -28,7 +28,7 @@ Additionally, we also provide the [[**Hugging Face**]](https://huggingface.co/da
   files are required to run the audio prompts in [[**cpd/dataset/audio_prompt_cpd.py**]](https://github.com/hate-alert/ToxicityBegetsToxicity-Audio/blob/main/cpd/audio_prompt_cpd.py). **Note-** Please accordingly 
   update the path to folders to make the code working.
 - **all toxic conversation chains** from both, conservative and liberal podcast channels. As stated in the paper, we 
-  define a toxic conversation chain whose toxicity value is greater than 0.7.
+  define a toxic conversation chain whose anchor segment's toxicity value is greater than 0.7.
 - **complete diarized dataset** with toxicity scores calculated using Perspective API for both conservative and 
   liberal podcast channels.
 

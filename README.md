@@ -3,7 +3,7 @@
 Accepted at **ACM Multimedia 2025**
 
 Naquee Rizwan, Nayandeep Deb, Sarthak Roy, Vishwajeet Singh Solanki, Kiran Garimella, Animesh Mukherjee:
-[[**Arxiv**]](https://arxiv.org/abs/2501.12640) (Main content + Appendix in one PDF), [[**Hugging Face**]](https://huggingface.co/datasets/nrizwan/toxicity_begets_toxicity_conversational_chains/tree/main)
+[[**Arxiv**]](https://arxiv.org/abs/2501.12640) (Main content + Appendix in one PDF), [[**Hugging Face**]](https://huggingface.co/datasets/nrizwan/toxicity_begets_toxicity_conversational_chains/tree/main), [[**Slides**]](https://docs.google.com/presentation/d/1G88kuSrfHZQNqe6wjgVi5DIArpzt6hPkg7r9_wCNBoQ)
 
 ------------------------------------------
 ## Abstract

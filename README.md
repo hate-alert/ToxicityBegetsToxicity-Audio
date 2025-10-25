@@ -98,6 +98,19 @@ conversation chains across the podcast channels for each leaning, i.e. right and
 ## Please cite our paper
 
 ~~~bibtex
+@inproceedings{Rizwan_2025, series={MM ’25},
+   title={Toxicity Begets Toxicity: Unraveling Conversational Chains in Political Podcasts},
+   url={http://dx.doi.org/10.1145/3746027.3754553},
+   DOI={10.1145/3746027.3754553},
+   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+   publisher={ACM},
+   author={Rizwan, Naquee and Deb, Nayandeep and Roy, Sarthak and Solanki, Vishwajeet Singh and Garimella, Kiran and Mukherjee, Animesh},
+   year={2025},
+   month=oct, pages={11776–11784},
+   collection={MM ’25} }
+~~~
+
+~~~bibtex
 @misc{rizwan2025dynamicstoxicitypoliticalpodcasts,
       title={Dynamics of Toxicity in Political Podcasts}, 
       author={Naquee Rizwan and Nayandeep Deb and Sarthak Roy and Vishwajeet Singh Solanki and Kiran Garimella and Animesh Mukherjee},

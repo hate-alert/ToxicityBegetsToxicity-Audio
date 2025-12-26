@@ -6,10 +6,18 @@ Naquee Rizwan, Nayandeep Deb, Sarthak Roy, Vishwajeet Singh Solanki, Kiran Garim
 [[**Paper**]](https://dl.acm.org/doi/10.1145/3746027.3754553), [[**Arxiv**]](https://arxiv.org/abs/2501.12640) (Main content + Appendix in one PDF), [[**Hugging Face**]](https://huggingface.co/datasets/nrizwan/toxicity_begets_toxicity_conversational_chains/tree/main), [[**Slides**]](https://docs.google.com/presentation/d/1G88kuSrfHZQNqe6wjgVi5DIArpzt6hPkg7r9_wCNBoQ)
 
 ------------------------------------------
+## One slide poster
+
+<div align="center">
+  <img src="one_slide_poster.png" width="100%">
+</div>
+
+------------------------------------------
 ## Abstract
 Tackling toxic behavior in digital communication continues to be a pressing concern for both academics and industry professionals. While significant research has explored toxicity on platforms like social networks and discussion boards, podcasts—despite their rapid rise in popularity—remain relatively understudied in this context. This work seeks to fill that gap by curating a dataset of political podcast transcripts and analyzing them with a focus on conversational structure. Specifically, we investigate how toxicity surfaces and intensifies through sequences of replies within these dialogues, shedding light on the organic patterns by which harmful language can escalate across conversational turns. **Warning: Contains potentially abusive/toxic contents.**
 
 ------------------------------------------
+
 ## Dataset
 
 The **top 100 toxic conversation chains** and their **ground truth cpd annotations**, each for conservative and liberal 
